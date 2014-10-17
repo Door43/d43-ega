@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ega:home|Door43 (ega)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ega|d43-ega repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ega/archive/master.zip|d43-ega.zip]]
+
+**Recent Changes**
+{{changes>ns = ega}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ega|Ethnologue data]]
+
